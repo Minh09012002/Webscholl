@@ -1,0 +1,29 @@
+.mg-t-50{
+	margin-top: 50px;
+}
+.mg-t-30{
+	margin-top: 30px;
+}
+.mg-b-0{
+	margin-bottom: 0px;
+}
+
+/* xem thêm */
+
+.see-more{
+	text-align: right;
+	align-items: center;
+	margin-top: 30px;
+}
+.see-more-link{
+	font-size: 13px;
+	color: var(--vu_color-red);
+	text-decoration: none;
+}
+.see-more-link i{
+	font-size: 13px;
+	color: var(--vu_color-red);
+	text-decoration: none;
+	margin-left: 5px;
+}
+
